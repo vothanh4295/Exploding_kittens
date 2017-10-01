@@ -1,34 +1,20 @@
-<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exploding_kittens", "Exploding_kittens.csproj", "{8DD06BDE-2334-C8C8-E963-25D43B046766}"
 EndProject
-=======
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-
->>>>>>> f9bc449c847d02ec2b6cd26a51419e6954c5537b
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-
->>>>>>> f9bc449c847d02ec2b6cd26a51419e6954c5537b
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

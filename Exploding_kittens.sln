@@ -1,18 +1,61 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8254d3d5dc8ddab064e9447c51266458dea18494
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exploding_kittens", "Exploding_kittens.csproj", "{8DD06BDE-2334-C8C8-E963-25D43B046766}"
 EndProject
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 6de510a3027002c6dc98839d0c47e5fbd7517b6f
+>>>>>>> 974d068627fd95b7921f82e038b032460532b335
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f9bc449c847d02ec2b6cd26a51419e6954c5537b
+>>>>>>> 6de510a3027002c6dc98839d0c47e5fbd7517b6f
+>>>>>>> 974d068627fd95b7921f82e038b032460532b335
+>>>>>>> 8254d3d5dc8ddab064e9447c51266458dea18494
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+>>>>>>> 8254d3d5dc8ddab064e9447c51266458dea18494
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD06BDE-2334-C8C8-E963-25D43B046766}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> f9bc449c847d02ec2b6cd26a51419e6954c5537b
+>>>>>>> 6de510a3027002c6dc98839d0c47e5fbd7517b6f
+>>>>>>> 974d068627fd95b7921f82e038b032460532b335
+>>>>>>> 8254d3d5dc8ddab064e9447c51266458dea18494
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
